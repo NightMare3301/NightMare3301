@@ -1,23 +1,11 @@
 ### Hi there 👋, I'm NightMAre!
 
-<br/>
-<a href="https://discord.com/users/928575023705391135" target="_blank" >
-    <img align ="left" alt="NightMare's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-  </a>
-  <a href="https://github.com/NightMare3301" target="_blank">
-    <img align ="left" alt="Xeno's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-
-![]()
-
-<br/>
+A Developer ~ Python , Bash , GO
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/928575023705391135.png) -->
 <a href="https://discord.com/users/928575023705391135">
 <img src="https://discord.c99.nl/widget/theme-3/928575023705391135.png" alt="Discord"/>
 </a>
-
-Hey, I'm NightMare, 
 
 
  **Information:**
@@ -35,3 +23,19 @@ Hey, I'm NightMare,
 - [Instagram](SOON)
 - [Server](https://discord.gg/jishaku)
 - [GitHub](https://github.com/NightMare3301)
+
+<a href="https://discord.com/users/928575023705391135" target="_blank" >
+    <img align ="left" alt="NightMare's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  </a>
+  <a href="https://github.com/NightMare3301" target="_blank">
+    <img align ="left" alt="NIghtMare's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+<a href="https://instagram.com/fraze1337x" target="_blank" >
+    <img align ="left" alt="NightMare's Insta" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+<a href="https://youtube.com/@nightmareop" target="_blank" >
+    <img align ="left" alt="NightMare's YouTube" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  </a>
+
+![]()
+
