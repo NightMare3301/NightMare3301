@@ -27,4 +27,4 @@ Hey, I'm NightMare,
 **Projects**
 
 - [Aware](https://discord.gg/jishaku)
-- [Origin Multipurpose](https://discord.gg/jishaku))
+- [Origin Multipurpose](https://discord.gg/jishaku)
