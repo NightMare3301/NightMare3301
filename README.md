@@ -29,3 +29,9 @@ Hey, I'm NightMare,
 
 - [Aware](https://discord.gg/jishaku)
 - [Origin Multipurpose](https://discord.gg/jishaku)
+
+**Socials**
+
+- [Instagram](SOON)
+- [Server](https://discord.gg/jishaku)
+- [GitHub](https://github.com/NightMare3301)
