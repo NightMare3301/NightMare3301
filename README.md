@@ -1,4 +1,4 @@
-### Hi there 👋, I'm NightMAre!
+### Hi there 👋, I'm NightMare!
 
 A Developer ~ Python , Bash , GO
 
