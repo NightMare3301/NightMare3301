@@ -1,4 +1,4 @@
-### Hi there 👋, I'm NightMare!
+### Hi there 👋, I'm NightMare!  ![](https://komarev.com/ghpvc/?username=NightMare3301)
 
 A Developer ~ Python , Bash , GO
 
