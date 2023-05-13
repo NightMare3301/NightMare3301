@@ -12,6 +12,7 @@ A Developer ~ Python , Bash , GO
 
 - 🔭 I’m currently working on  **Aware**
 - 🌱 I’m currently learning  **Bash , C#**
+- 🌱 Contact : contact@n1ghtmare.xyz
 
 **Projects**
 
@@ -20,8 +21,8 @@ A Developer ~ Python , Bash , GO
 
 **Socials**
 
-- [Instagram](SOON)
-- [Server](https://discord.gg/jishaku)
+- [Website](https://n1ghtmare.xyz)
+- [Server](https://discord.gg/nightmaredev)
 - [GitHub](https://github.com/NightMare3301)
 
 <a href="https://discord.com/users/928575023705391135" target="_blank" >
